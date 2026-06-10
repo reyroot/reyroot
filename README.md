@@ -12,15 +12,7 @@
 - 🚀 **Building:** I enjoy taking projects from concept to production, utilizing modern deployment platforms. 
 
 ---
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reyhidalgo&show_icons=true&theme=radical" alt="Reynerio's GitHub Stats" />
-</div>
-
----
 
 ## 📬 Connect with me
 
